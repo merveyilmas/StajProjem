@@ -6,22 +6,33 @@ Uygulama Android Studio platformunda Java dili kullanılarak geliştirilmiştir.
 
 ### Uygulamanın Amacı
 
-İstediğiniz nesneleri barkodları yardımıyla sınıflandırmayı sağlar.Ü rünlerin barkodları sayesinde takibini kolay bir şekilde gerçekleştirebilirsiniz. Aynı zamanda kendi barkodlarınızı da üretebilirsiniz.
+Ürün stok takibini gerçekleştirmektir.
 
 ### Uygulama hakkında;
 
-Uygulama Android cihazlarda çalışır. 
+Uygulama Android cihazlarda çalışır. İstediğiniz nesneleri barkodları yardımıyla sınıflandırmayı sağlar. Ürünlerin barkodları sayesinde takibini kolay bir şekilde gerçekleştirebilirsiniz. Ürün adedini, konumu görebilirsiniz. Aynı zamanda kendi barkodlarınızı da üretebilirsiniz.
+
 
 ## Uygulamadan Ekran Görüntüleri
 
-*Giriş Ekranı*
+*Anasayfa*
 
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMQrM.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6NfQ.png" />
+
+-------------------------------------------
+
+*Barkod Üretme/Okutma Sayfası*
+
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6DaY.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6zux.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6KMp.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei63kn.png" />
 
 -------------------------------------------
 
-*Kayıt Ol Ekranı*
+*Üürn Kaydetme/Bilgi Güncelleme Sayfası*
 
-<img height="400" src="https://imgyukle.com/f/2022/03/09/EiMdsI.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei9g5o.png" />
 
 -------------------------------------------
+*Ürün Listeleme Sayfası*
+
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei69cI.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6fef.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei67HS.png" />
