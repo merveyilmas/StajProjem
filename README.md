@@ -23,8 +23,10 @@ Uygulama Android cihazlarda çalışır. İstediğiniz nesneleri barkodları yar
 
 *Barkod Üretme/Okutma Sayfası*
 
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6DaY.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6zux.png" />
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6KMp.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei63kn.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6DaY.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6zux.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6KMp.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei63kn.png" />
 
 -------------------------------------------
 
@@ -35,4 +37,6 @@ Uygulama Android cihazlarda çalışır. İstediğiniz nesneleri barkodları yar
 -------------------------------------------
 *Ürün Listeleme Sayfası*
 
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei69cI.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6fef.png" /><img height="400" src="https://imgyukle.com/f/2022/03/09/Ei67HS.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei69cI.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6fef.png" />
+<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei67HS.png" />
