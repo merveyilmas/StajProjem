@@ -16,25 +16,6 @@ Uygulama Android cihazlarda çalışır. İstediğiniz nesneleri barkodları yar
 ## Uygulamadan Ekran Görüntüleri
 Aşağıdaki linkten uygulamamın ekran görüntülerine ulaşabilirsiniz.<br>
 https://drive.google.com/drive/folders/1kym6_0TwmkoB4ZTHCrU10NIYBfOgRIcv?usp=sharing
+Aşağıdaki linkten uygulamanın video kayıtlarına ulaşabilirsiniz.<br>
+https://drive.google.com/drive/folders/1rLKaw-k1LAnyT9hTnKFMN4Ya7VnK1NDK?usp=sharing
 
-*Anasayfa*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6NfQ.png" />
-
--------------------------------------------
-
-*Barkod Üretme/Okutma Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6DaY.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6zux.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6KMp.png" />
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei63kn.png" />
-
--------------------------------------------
-
-*Üürn Kaydetme/Bilgi Güncelleme Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei9g5o.png" />
-
--------------------------------------------
-*Ürün Listeleme Sayfası*
-
-<img height="400" src="https://imgyukle.com/f/2022/03/09/Ei69cI.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6fef.png" /> <img height="400" src="https://imgyukle.com/f/2022/03/09/Ei67HS.png" />
