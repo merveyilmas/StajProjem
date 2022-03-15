@@ -18,7 +18,6 @@ Uygulama Android cihazlarda çalışır. İstediğiniz nesneleri barkodları yar
 *Anasayfa*
 
 <img height="400" src="https://imgyukle.com/f/2022/03/09/Ei6NfQ.png" />
-<a href="https://resimlink.com/EtmfL50W" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/EtmfL50W.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 -------------------------------------------
 
