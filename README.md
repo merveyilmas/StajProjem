@@ -14,6 +14,8 @@ Uygulama Android cihazlarda çalışır. İstediğiniz nesneleri barkodları yar
 
 
 ## Uygulamadan Ekran Görüntüleri
+Aşağıdaki linkten uygulamamın ekran görüntülerine ulaşabilirsiniz.<br>
+https://drive.google.com/drive/folders/1kym6_0TwmkoB4ZTHCrU10NIYBfOgRIcv?usp=sharing
 
 *Anasayfa*
 
